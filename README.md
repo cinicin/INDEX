@@ -44,7 +44,8 @@
 
 | TR | EN |
 | -- | -- |
-| [Hazır Max Projeleri](/TR/3D/001.md) | [Client Collection](/EN/3D/001.md) |
+| [Hazır Max Projeleri](/TR/3D/001.md) | [Ready Max Project](/EN/3D/001.md) |
+| [Antik Titan Set](/TR/3D/002.md) | [Ancient Titan Set](/EN/3D/002.md) |
 
 
 | TR | EN |
