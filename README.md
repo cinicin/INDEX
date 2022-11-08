@@ -7,7 +7,7 @@
 * [![Metin2Dev](https://img.shields.io/static/v1?label=🔗Metin2Dev&message=cncn&style=social)](https://metin2.dev/profile/30253-cncn/)
 * [![MMOTutkunlari](https://img.shields.io/static/v1?label=🔗MMOTutkunları&message=cncn&style=social)](https://www.mmotutkunlari.com/uye/cncn.19051/)
 
-### RTFI Discord Sunucusu __/ RTFI Discord Server
+### RTFI Discord Sunucusu 🖇🖇 RTFI Discord Server
 
 * [![Discord](https://img.shields.io/discord/545564775497859072?label=Discord&logo=discord&style=social)](https://discord.gg/JbFdHMK) 
 
@@ -19,7 +19,7 @@
 ## RTFI Client-Server Structure Repo
 
 * [![Fork](https://img.shields.io/github/forks/cinicin/RTFI?label=RTFI&style=social)](https://github.com/cinicin/RTFI)
-* [![RTFI](https://img.shields.io/github/repo-size/cinicin/RTFI?label=repo%20boyutu&style=social)](https://github.com/cinicin/RTFI) __/ [![RTFI](https://img.shields.io/github/repo-size/cinicin/RTFI?style=social)](https://github.com/cinicin/RTFI)
+* [![RTFI](https://img.shields.io/github/repo-size/cinicin/RTFI?label=repo%20boyutu&style=social)](https://github.com/cinicin/RTFI) 🖇🖇 [![RTFI](https://img.shields.io/github/repo-size/cinicin/RTFI?style=social)](https://github.com/cinicin/RTFI)
 
 ### RTFI Client-Server Devlogs
 
@@ -38,14 +38,19 @@
 | [**11.** Client için Lib Derlemeleri ve Hata Çözümleri](/TR/RTFIDEVLOG/011.md) | 11 Client Compiling Libs and Errors |
 | [**12.** Başarılı Giriş ve Debug Modda Başlatma](/TR/RTFIDEVLOG/012.md) | 12 Login Success |
 
-## Forum İçerikleri __/ Forum Contents
-
-### 3D
+## 3D
 
 | TR | EN |
 | -- | -- |
-| [Hazır Max Projeleri](/TR/3D/001.md) | [Ready Max Project](/EN/3D/001.md) |
-| [Antik Titan Set](/TR/3D/002.md) | [Ancient Titan Set](/EN/3D/002.md) |
+| [**Hazır Max Projeleri**](/TR/3D/001.md) | [**Ready Max Project**](/EN/3D/001.md) |
+
+### Setler 🖇🖇 Sets
+
+| TR | EN |
+| -- | -- |
+| [**Antik Titan Set** / 4 Char / Weapon / Hair](/TR/3D/002.md) | [**Ancient Titan Set** / 4 Char / Weapon / Hair](/EN/3D/002.md) |
+| [**CNCN Set 1** / 4 Char / Weapon](/TR/3D/003.md) | [**CNCN Set 1** / 4 Char / Weapon](/EN/3D/003.md) |
+
 
 
 | TR | EN |
