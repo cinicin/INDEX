@@ -19,6 +19,8 @@
     - [RTFI Discord Sunucusu ↔ RTFI Discord Server](#rtfi-discord-sunucusu--rtfi-discord-server)
   - [RTFI Client-Server Structure Repo](#rtfi-client-server-structure-repo)
     - [RTFI Client-Server Devlogs](#rtfi-client-server-devlogs)
+  - [Kaynak ↔ Source](#kaynak--source)
+    - [Modlama ↔ Modding](#modlama--modding)
   - [FreeBSD](#freebsd)
     - [Rehberler ↔ Tutorials](#rehberler--tutorials)
   - [3D](#3d)
@@ -48,13 +50,21 @@
 | [**11.** Client için Lib Derlemeleri ve Hata Çözümleri](/TR/RTFIDEVLOG/011.md) | 11 Client Compiling Libs and Errors |
 | [**12.** Başarılı Giriş ve Debug Modda Başlatma](/TR/RTFIDEVLOG/012.md) | 12 Login Success |
 
+## Kaynak ↔ Source
+
+### Modlama ↔ Modding
+
+| TR | EN |
+| -- | -- |
+| [**Hackshield Kaldırma.**](/TR/SOURCE/001.md) | **Removing hackshield** |
+
 ## FreeBSD
 
 ### Rehberler ↔ Tutorials
 
 | TR | EN |
 | -- | -- |
-| [**FreeBSD 12.1 RELEASE x32 Mysql55 gcc8**](/TR/FREEBSD/001.md) | **FreeBSD 12.1 RELEASE x32 Mysql55 gcc8** |
+| [**FreeBSD 12.1 RELEASE Kurulumu ve Detaylı Anlatım.**](/TR/FREEBSD/001.md) | **FreeBSD 12.1 RELEASE x32 Mysql55 gcc8** |
 
 ## 3D
 
