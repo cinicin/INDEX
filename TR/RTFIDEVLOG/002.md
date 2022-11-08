@@ -1,0 +1,33 @@
+# RTFI Devlog 2 - Server Kaynak Kodları
+
+## Video
+
+[![RTFIDEVLOG2](https://img.youtube.com/vi/K8lXB2LteDo/0.jpg)](https://youtu.be/K8lXB2LteDo)
+
+[![Youtube](https://img.shields.io/youtube/views/K8lXB2LteDo?style=social&label=Görüntüleme)](https://youtu.be/K8lXB2LteDo)
+
+### Video Detayları
+
+> 💬 Videoda, kendimce ufak bilgiler verdim. Sonra kraizy arşivine geçiş yaptık ve yeni bir repo üzerinde client-server sistemimizi kurmaya başladık.
+>
+>Server kaynak kodlarını yeni sistemimize kopyalamakla bitirdik videoyu.
+
+### Bölümler
+
+| Bölüm | Açıklama |
+| --- | --- |
+| 1️⃣ [00:50](https://youtu.be/K8lXB2LteDo?t=50) | Bilgisayarlar nasıl çalışır. |
+| 2️⃣ [15:50](https://youtu.be/K8lXB2LteDo?t=950) | Client-Server sistemi nasıl çalışır. |
+| 3️⃣ [17:36](https://youtu.be/K8lXB2LteDo?t=1056) | C++ Mini tanıtım. |
+| 4️⃣ [24:56](https://youtu.be/K8lXB2LteDo?t=1496) | Kraizy dosyaları. |
+| 5️⃣ [30:40](https://youtu.be/K8lXB2LteDo?t=1840) | Yol haritamız. |
+| 6️⃣ [33:45](https://youtu.be/K8lXB2LteDo?t=2025) | Yeni Repository. |
+| 7️⃣ [39:00](https://youtu.be/K8lXB2LteDo?t=2340) | Server kaynak kodlarının kraizy'den kopyalanması. |
+
+
+## Videoda Kullanılan veya Oluşturulan İçerikler
+
+### Kraizy Arşivi
+
+[kraizy.7z](https://mega.nz/file/EWRnwQDI#MeYOMaFW4wljH4ghyUGS5hMMi3TJmfwWXxvBwA89kTI)
+> **SHA-256:** `BAC614BAF5583EC5CCD560A18CF7BE635459184C8F8675426459EE055BAC51DB`

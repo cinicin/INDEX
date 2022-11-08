@@ -1,0 +1,41 @@
+# RTFI Devlog 5 - Server Yapısı Oluşturma
+
+- [RTFI Devlog 5 - Server Yapısı Oluşturma](#rtfi-devlog-5---server-yapısı-oluşturma)
+  - [Video](#video)
+    - [Video Detayları](#video-detayları)
+    - [Bölümler](#bölümler)
+  - [Videoda Kullanılan veya Oluşturulan İçerikler](#videoda-kullanılan-veya-oluşturulan-i̇çerikler)
+    - [Okutulan SQL Dosyaları](#okutulan-sql-dosyaları)
+    - [Geçici Share Klasörü](#geçici-share-klasörü)
+
+## Video
+
+[![RTFIDEVLOG 5](https://img.youtube.com/vi/UEJ8RZQKYMc/0.jpg)](https://youtu.be/UEJ8RZQKYMc)
+
+[![Youtube](https://img.shields.io/youtube/views/UEJ8RZQKYMc?style=social&label=Görüntüleme)](https://youtu.be/UEJ8RZQKYMc)
+
+### Video Detayları
+
+> 💬 Derlediğimiz server programlarını çalıştırabilmek için gerekli klasör yapısını script ile otomatik olarak oluşturuyoruz. Başarılı şekilde serverimizi başlatıyoruz.
+
+### Bölümler
+
+| Bölüm | Açıklama |
+| --- | --- |
+| 1️⃣[07:55](https://youtu.be/__VIDEO_ID__?t=__SANIYE__) | Server Yapısı oluşturma scripti |
+| 2️⃣[42:30](https://youtu.be/__VIDEO_ID__?t=__SANIYE__) | MySQL veritabanı |
+
+## Videoda Kullanılan veya Oluşturulan İçerikler
+
+### Okutulan SQL Dosyaları
+
+| İsim | VT | Bağlantı |
+| ---- | -- | -------- |
+| sqls.7z |  [![130 KiB](https://img.shields.io/static/v1?label=Virustotal&logo=virustotal&logoColor=black&labelColor=blue&message=8A255F3E612EB9C34BB3DCD0612E9BCBA6AD919B67E52D4D32AA79B1CEDCA4F3&color=9cf)](https://www.virustotal.com/gui/file/8a255f3e612eb9c34bb3dcd0612e9bcba6ad919b67e52d4d32aa79b1cedca4f3) | [MEGA](https://mega.nz/file/ITYUlZCS#mZGC4BUJKTdjUsujY6OLqBBm3ocQvi4f4JNk6G3-qGA)|
+
+### Geçici Share Klasörü
+
+| İsim | VT | Bağlantı |
+| ---- | -- | -------- |
+| Share.7z |  [![130 KiB](https://img.shields.io/static/v1?label=Virustotal&logo=virustotal&logoColor=black&labelColor=blue&message=EC4E7E269ABBEFCAEDACA93B070D20178405B1FDD32BADF5E568B84F37F8A048&color=9cf)](https://www.virustotal.com/gui/file/ec4e7e269abbefcaedaca93b070d20178405b1fdd32badf5e568b84f37f8a048) | [MEGA](https://mega.nz/file/4agm1JrQ#3Kr79Doizyx3Jr717PTu8eKOMZiBQHGPPSxJ_k6u6DA)|
+

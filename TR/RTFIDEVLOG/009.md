@@ -1,0 +1,36 @@
+# RTFI Devlog 9 - Client Derlemesi ve Extern Ayarlamaları Python 2.7.18
+
+- [RTFI Devlog 9 - Client Derlemesi ve Extern Ayarlamaları Python 2.7.18](#rtfi-devlog-9---client-derlemesi-ve-extern-ayarlamaları-python-2718)
+  - [Video](#video)
+    - [Video Detayları](#video-detayları)
+    - [Bölümler](#bölümler)
+    - [Videoda Kullanılan veya Oluşturulan İçerikler](#videoda-kullanılan-veya-oluşturulan-i̇çerikler)
+
+## Video
+
+[![RTFIDEVLOG9](https://img.youtube.com/vi/01pqEvlaOeM/0.jpg)](https://youtu.be/01pqEvlaOeM)
+
+[![Youtube](https://img.shields.io/youtube/views/01pqEvlaOeM?style=social&label=Görüntüleme)](https://youtu.be/01pqEvlaOeM)
+
+### Video Detayları
+
+> Client derlememize devam ediyoruz ve istediği header dosyalarını sağlıyoruz. Python 2.2 istediğinde 2.7 ye yükseltmek için 2.7.18 versiyonunu python sitesinden indirerek derlemeye yapıp projemize header ve lib dosyalarımızı ekliyoruz.
+
+
+### Bölümler
+
+| Bölüm | Açıklama |
+| --- | --- |
+| 1️⃣[00:39](https://youtu.be/__VIDEO_ID__?t=39) | EterPython Derlemesi |
+| 2️⃣[02:48](https://youtu.be/__VIDEO_ID__?t=168) | Python 2.7 Derleme ve Yükseltme |
+| 3️⃣[35:51](https://youtu.be/__VIDEO_ID__?t=2151) | PythonGraphic.cpp SaveJPEG hatası |
+
+
+### Videoda Kullanılan veya Oluşturulan İçerikler
+
+* [Python-2.7.18.tar.xz](https://www.python.org/ftp/python/2.7.18/Python-2.7.18.tar.xz)
+
+
+
+
+

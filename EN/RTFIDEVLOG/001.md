@@ -1,0 +1,102 @@
+# RTFI Devlog 1 - Using rain files
+
+- [RTFI Devlog 1 - Using rain files](#rtfi-devlog-1---using-rain-files)
+  - [Video](#video)
+    - [Video details](#video-details)
+  - [Files used in the video](#files-used-in-the-video)
+    - [InstantServer.exe](#instantserverexe)
+    - [Files in InstantServer.](#files-in-instantserver)
+    - [Client archive](#client-archive)
+    - [Client Turkish patch](#client-turkish-patch)
+    - [Client English patch](#client-english-patch)
+    - [Rain Server files](#rain-server-files)
+    - [Mysqldump sql file](#mysqldump-sql-file)
+  - [RTFI Discord Server](#rtfi-discord-server)
+  - [RTFI Client-Server Repository](#rtfi-client-server-repository)
+
+## Video
+
+[![Youtube](https://img.shields.io/youtube/views/zV9JcZ_rnX8?style=social)](https://youtu.be/zV9JcZ_rnX8)
+
+### Video details
+
+Codes and passwords written in case of not being read or heard in the video
+
+* InstantServer.exe password `mcncc.com`
+* VHD **root** user password `mcncc.com`
+* client rain login password `12345`
+* mysql external root acccount password `123456`
+* mysql localhost root account has no password.
+* `/etc/rc.d/netif restart`
+* `mysqldump --user root --password --all-databases > rain_all_db.sql`
+* `tar czvf rain.tar.gz rain`
+
+## Files used in the video
+
+### InstantServer.exe
+
+7zip SFX archive leaked by Rain. You don't need to download. Below there is a re-compressed version of it. You can keep it because it has nostalgic value.
+
+[MEGA](https://mega.nz/file/Et8k0Q6D#cnppoleb0KOKz_bgS9TO82YYQCp3dCFxC9QGhBBl6M8)
+
+> **Archive password:** `mcncc.com`
+
+### Files in InstantServer.
+
+The files I extracted from instaserver.exe in the video, with this we do not have to deal with the above SFX archive.
+
+[MEGA](https://mega.nz/file/5TpxhYoK#bn94OiftqEoJxq4GVLMJ2tAz_xTU6QydSeEfCzMH1Hk)
+
+> **Archive password:** `rain`
+>> **SHA-256:** `436BCFB3963B02506EEEB07713F18396CA49DA6BA084D7ACE8CC361885622062`
+
+
+### Client archive
+
+[MEGA](https://mega.nz/file/8LBSwCYb#uAj7RfEcBj2TmLbUQMjl2fLWEYkDOxTnQ5zJGHQ1G_A)
+
+> **Archive password:** `rain`
+>> **SHA-256:** `27E2FCFB486E3682A898FB32F7F30F064729D7BD7323FEB4D9B202A76486FB2B`
+
+### Client Turkish patch
+
+[MEGA](https://mega.nz/file/xL4hRRYa#sTkCC95ZDcdiLH75979I1Bl-nnTcILbhZ_i2nOU9YqU)
+
+> **Archive password:** `rain`
+>> **SHA-256:** `4F03CB7974655DBA67B5D9B80BFDCE18BB9C3C6753AE4CFD7E082F2E33D0C25A`
+
+### Client English patch
+
+[MEGA](https://mega.nz/file/kKx2BTZB#aGkQmLzobKVNAsBQjSy7K_n_4S9FMgufTmxKiFog0tg)
+
+> **Archive password:** `rain`
+>> **SHA-256:** `974F8402524BC10F5EF82D87F11C64721525AD00D89AD9E02171D8CD75612672`
+
+### Rain Server files
+
+The files we archived after installing the virtual machine in the video.
+
+[MEGA](https://mega.nz/file/JLp2iALT#Gf09yDxUK7sbsANveF8xdWja_T_Mwg-eTBdV50_BSbY)
+
+> It has been recompressed at high settings with the Lzma2 algorithm...
+>> **SHA-256:** `1833A13707ABBCE334A030CD5A2E5F8D6F2C336FF9EB9D2CDD3417519758A5FA`
+
+### Mysqldump sql file
+
+[MEGA](https://mega.nz/file/pO5WRKga#6T-Rh6uHoLFftr53Tot2fDaGnS958rTwOFoaKsLMKho)
+
+> The entire copy of the database we got with mysqldump in the video.
+>> **SHA-256:** `E42637DA2B712A829D43186F29532A643DB02363366DDAE082D08EC2235373EF`
+
+## RTFI Discord Server
+
+[![Discord](https://img.shields.io/discord/545564775497859072?label=Discord&logo=discord&style=plastic)](https://discord.gg/JbFdHMK) 
+
+> You can report bugs and get help via the Discord channel.
+>> You can join our discord channel by clicking on the counter...
+
+## RTFI Client-Server Repository
+
+[![Fork](https://img.shields.io/github/forks/cinicin/RTFI?label=RTFI&style=social)](https://github.com/cinicin/RTFI)
+
+

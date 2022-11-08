@@ -1,0 +1,47 @@
+# RTFI Devlog 11 - Client için Lib Derlemeleri ve Hata Çözümleri
+
+- [RTFI Devlog 11 - Client için Lib Derlemeleri ve Hata Çözümleri](#rtfi-devlog-11---client-için-lib-derlemeleri-ve-hata-çözümleri)
+  - [Video](#video)
+    - [Video Detayları](#video-detayları)
+    - [Bölümler](#bölümler)
+  - [Videoda Kullanılan veya Oluşturulan İçerikler](#videoda-kullanılan-veya-oluşturulan-i̇çerikler)
+    - [Python lib klasörü için yazılan otomatik silme scripti.](#python-lib-klasörü-için-yazılan-otomatik-silme-scripti)
+
+## Video
+
+[![RTFIDEVLOG 11](https://img.youtube.com/vi/-7eyt-TEboc/0.jpg)](https://youtu.be/-7eyt-TEboc)
+
+[![Youtube](https://img.shields.io/youtube/views/-7eyt-TEboc?style=social&label=Görüntüleme)](https://youtu.be/-7eyt-TEboc)
+
+### Video Detayları
+
+> 💬 Client derlemesinde sona yaklaşıyoruz. Kullandığımız kütüphaneleri tamamlayıp derleme işlemlerini bitiriyoruz. Python yükseltmenin son adımlarından client klasöründe gerekli lib klasörü içerisindeki pyc dosyalarını oluşturuyoruz.
+
+### Bölümler
+
+| Bölüm | Açıklama |
+| --- | --- |
+| 1️⃣[01:48](https://youtu.be/-7eyt-TEboc?t=108) | CryptoPP liblink header dosyasında düzenleme. |
+| 2️⃣[05:17](https://youtu.be/-7eyt-TEboc?t=317) | Lzo Derlemesi ve header dosyasında düzenleme. |
+| 3️⃣[14:15](https://youtu.be/-7eyt-TEboc?t=855) | Jpeg lib derlenmesi ve header dosyasında düzenleme. |
+| 4️⃣[29:45](https://youtu.be/-7eyt-TEboc?t=1785) | Xtrap external symbol hatası. |
+| 5️⃣[31:08](https://youtu.be/-7eyt-TEboc?t=1868) | GrpObjectInstance.obj unresolved external hatası. LostChild. |
+| 6️⃣[48:31](https://youtu.be/-7eyt-TEboc?t=2911) | Client için python lib scriptlerinin derlenmesi. |
+
+
+## Videoda Kullanılan veya Oluşturulan İçerikler
+
+### Python lib klasörü için yazılan otomatik silme scripti.
+
+```python
+import os
+dir  =   "C:\CNCN\Python-2.7.18\Lib"
+def arabul(arg):
+    for anaklasor, klasor, dosya in os.walk(arg):
+        for eldekidosya in dosya:
+            print(f"{eldekidosya}")
+            uzantilar   =('.pyc', '.pyd', '.pyo')
+            if not eldekidosya.lower().endswith(uzantilar):
+                os.remove(os.path.join(anaklasor, eldekidosya))
+arabul(dir)
+```

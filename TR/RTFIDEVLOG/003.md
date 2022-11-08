@@ -1,0 +1,39 @@
+# RTFI Devlog 3 - FreeBSD Ayarlamaları ve Extern
+
+- [RTFI Devlog 3 - FreeBSD Ayarlamaları ve Extern](#rtfi-devlog-3---freebsd-ayarlamaları-ve-extern)
+  - [Video](#video)
+    - [Video Detayları](#video-detayları)
+    - [Bölümler](#bölümler)
+  - [RTFI Discord kanalı](#rtfi-discord-kanalı)
+
+## Video
+
+[![RTFIDEVLOG 2](https://img.youtube.com/vi/_dOnZziznBs/0.jpg)](https://youtu.be/_dOnZziznBs)
+
+[![Youtube](https://img.shields.io/youtube/views/_dOnZziznBs?style=social&label=Görüntüleme)](https://youtu.be/_dOnZziznBs)
+
+> Yukarıdaki sayaç butonuna tıklayarak videoya gidebilirsiniz.
+
+
+
+### Video Detayları
+
+> 💬 FreeBSD makinemizi kurduk, server kaynak kodlarını derleyebilmek için gerekli programlarımızı kurduk. Son olarakta Extern ayarlamayada ufak bir giriş yaptık.
+
+### Bölümler
+
+| Bölüm | Açıklama |
+| --- | --- |
+| 1️⃣ [00:50](https://youtu.be/_dOnZziznBs?t=50) | FreeBSD versiyonları hakkında bilgiler. |
+| 2️⃣ [04:16](https://youtu.be/_dOnZziznBs?t=256) | İndirme linkleri hakkında bilgiler. |
+| 3️⃣ [09:37](https://youtu.be/_dOnZziznBs?t=577) | WinSCp ilk bağlantı. |
+| 4️⃣ [12:00](https://youtu.be/_dOnZziznBs?t=720) | Freshports. |
+| 5️⃣ [16:10](https://youtu.be/_dOnZziznBs?t=970) | 3.Parti lütüphanelerin ve gerekli programların kurulumu. |
+| 6️⃣ [22:00](https://youtu.be/_dOnZziznBs?t=1320) | Paket sisteminden yüklenen 3.parti kütüphanelerin repoya geçirilmesi. |
+| 7️⃣ [33:00](https://youtu.be/_dOnZziznBs?t=1980) | Libler için sembolik linkleri otomatik oluşturan bash scripti yazımı. |
+
+## RTFI Discord kanalı
+
+[![Discord](https://img.shields.io/discord/545564775497859072?label=Discord&logo=discord&style=plastic)](https://discord.gg/JbFdHMK) 
+
+> Sayaca tıklayarak discord kanalımıza katılabilirsiniz...

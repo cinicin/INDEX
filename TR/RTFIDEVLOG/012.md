@@ -1,0 +1,38 @@
+# RTFI Devlog 12 - Başarılı Giriş ve Debug Modda Başlatma
+
+- [RTFI Devlog 12 - Başarılı Giriş ve Debug Modda Başlatma](#rtfi-devlog-12---başarılı-giriş-ve-debug-modda-başlatma)
+  - [Video](#video)
+    - [Video Detayları](#video-detayları)
+    - [Bölümler](#bölümler)
+  - [Videoda Kullanılan veya Oluşturulan İçerikler](#videoda-kullanılan-veya-oluşturulan-i̇çerikler)
+    - [Client.7z](#client7z)
+
+## Video
+
+[![RTFIDEVLOG 12](https://img.youtube.com/vi/h5m4ZnzCVjs/0.jpg)](https://youtu.be/h5m4ZnzCVjs)
+
+[![Youtube](https://img.shields.io/youtube/views/h5m4ZnzCVjs?style=social&label=Görüntüleme)](https://youtu.be/h5m4ZnzCVjs)
+
+### Video Detayları
+
+> 💬 Derlediğimiz client'imiz ile başarılı şekilde giriş yapıyoruz. Debug olarak başlatabilmek içinde ufak bir dokunuş yapıyoruz.
+
+### Bölümler
+
+| Bölüm | Açıklama |
+| --- | --- |
+| 1️⃣[00:20](https://youtu.be/h5m4ZnzCVjs?t=20) | Client klasörüne gerekli liblerin kopyalanması. |
+| 2️⃣[10:48](https://youtu.be/h5m4ZnzCVjs?t=648) | object has no attribute hatası. |
+| 3️⃣[14:31](https://youtu.be/h5m4ZnzCVjs?t=871) | Başarılı giriş. |
+| 4️⃣[23:31](https://youtu.be/h5m4ZnzCVjs?t=1411) | Debug olarak başlatma. |
+
+## Videoda Kullanılan veya Oluşturulan İçerikler
+
+### Client.7z
+
+[Link 1](https://dosya.co/uusdg35hutzr/Client.7z.html)
+
+[Link 2](https://www.dosyaupload.com/48q4e/Client.7z)
+
+
+
