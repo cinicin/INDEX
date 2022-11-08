@@ -7,7 +7,7 @@
 * [![Metin2Dev](https://img.shields.io/static/v1?label=🔗Metin2Dev&message=cncn&style=social)](https://metin2.dev/profile/30253-cncn/)
 * [![MMOTutkunlari](https://img.shields.io/static/v1?label=🔗MMOTutkunları&message=cncn&style=social)](https://www.mmotutkunlari.com/uye/cncn.19051/)
 
-### RTFI Discord Sunucusu 🖇🖇 RTFI Discord Server
+### RTFI Discord Sunucusu ↔ RTFI Discord Server
 
 * [![Discord](https://img.shields.io/discord/545564775497859072?label=Discord&logo=discord&style=social)](https://discord.gg/JbFdHMK) 
 
@@ -19,7 +19,7 @@
 ## RTFI Client-Server Structure Repo
 
 * [![Fork](https://img.shields.io/github/forks/cinicin/RTFI?label=RTFI&style=social)](https://github.com/cinicin/RTFI)
-* [![RTFI](https://img.shields.io/github/repo-size/cinicin/RTFI?label=repo%20boyutu&style=social)](https://github.com/cinicin/RTFI) 🖇🖇 [![RTFI](https://img.shields.io/github/repo-size/cinicin/RTFI?style=social)](https://github.com/cinicin/RTFI)
+* [![RTFI](https://img.shields.io/github/repo-size/cinicin/RTFI?label=repo%20boyutu&style=social)](https://github.com/cinicin/RTFI) ↔ [![RTFI](https://img.shields.io/github/repo-size/cinicin/RTFI?style=social)](https://github.com/cinicin/RTFI)
 
 ### RTFI Client-Server Devlogs
 
@@ -40,11 +40,19 @@
 
 ## 3D
 
+### Tutorials
+
+| TR | EN |
+| -- | -- |
+| [**Metin2 Skin ve Animasyon Import**](/TR/3D/005.md) | [**Metin2 Skin and Animation Import**](/EN/3D/005.md) |
+
+### Tools and Others
+
 | TR | EN |
 | -- | -- |
 | [**Hazır Max Projeleri**](/TR/3D/001.md) | [**Ready Max Project**](/EN/3D/001.md) |
 
-### Setler 🖇🖇 Sets
+### Setler ↔ Sets
 
 | TR | EN |
 | -- | -- |
@@ -58,3 +66,4 @@
 | [Client Koleksiyonu](/TR/ClientCol.md) | [Client Collection](/EN/ClientCol.md) |
 
 > [![up](/ASSETS/up.png)](#)  [![down](/ASSETS/down.png)](#end)  [![index](/ASSETS/index.png)](/README.md)
+
