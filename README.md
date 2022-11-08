@@ -15,6 +15,16 @@
 > Kurallar sayfasına özen gösteriniz lütfen...
 >> Click counter button for joining discord server.
 
+- [CNCN INDEX](#cncn-index)
+    - [RTFI Discord Sunucusu ↔ RTFI Discord Server](#rtfi-discord-sunucusu--rtfi-discord-server)
+  - [RTFI Client-Server Structure Repo](#rtfi-client-server-structure-repo)
+    - [RTFI Client-Server Devlogs](#rtfi-client-server-devlogs)
+  - [FreeBSD](#freebsd)
+    - [Rehberler ↔ Tutorials](#rehberler--tutorials)
+  - [3D](#3d)
+    - [Rehberler ↔ Tutorials](#rehberler--tutorials-1)
+    - [Araçlar ve Diğerleri ↔ Tools and Others](#araçlar-ve-diğerleri--tools-and-others)
+    - [Setler ↔ Sets](#setler--sets)
 
 ## RTFI Client-Server Structure Repo
 
@@ -38,15 +48,23 @@
 | [**11.** Client için Lib Derlemeleri ve Hata Çözümleri](/TR/RTFIDEVLOG/011.md) | 11 Client Compiling Libs and Errors |
 | [**12.** Başarılı Giriş ve Debug Modda Başlatma](/TR/RTFIDEVLOG/012.md) | 12 Login Success |
 
+## FreeBSD
+
+### Rehberler ↔ Tutorials
+
+| TR | EN |
+| -- | -- |
+| [**FreeBSD 12.1 RELEASE x32 Mysql55 gcc8**](/TR/FREEBSD/001.md) | **FreeBSD 12.1 RELEASE x32 Mysql55 gcc8** |
+
 ## 3D
 
-### Tutorials
+### Rehberler ↔ Tutorials
 
 | TR | EN |
 | -- | -- |
 | [**GR2 Skin ve Animasyon Import**](/TR/3D/005.md) | [**GR2 Skin and Animation Import**](/EN/3D/005.md) |
 
-### Tools and Others
+### Araçlar ve Diğerleri ↔ Tools and Others
 
 | TR | EN |
 | -- | -- |
