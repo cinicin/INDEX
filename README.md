@@ -44,7 +44,7 @@
 
 | TR | EN |
 | -- | -- |
-| [**Metin2 Skin ve Animasyon Import**](/TR/3D/005.md) | [**Metin2 Skin and Animation Import**](/EN/3D/005.md) |
+| [**GR2 Skin ve Animasyon Import**](/TR/3D/005.md) | [**GR2 Skin and Animation Import**](/EN/3D/005.md) |
 
 ### Tools and Others
 
@@ -58,6 +58,7 @@
 | -- | -- |
 | [**Antik Titan Set** / 4 Char / Weapon / Hair](/TR/3D/002.md) | [**Ancient Titan Set** / 4 Char / Weapon / Hair](/EN/3D/002.md) |
 | [**CNCN Set 1** / 4 Char / Weapon](/TR/3D/003.md) | [**CNCN Set 1** / 4 Char / Weapon](/EN/3D/003.md) |
+| [**CNCN Set 0** / 4 Char](/TR/3D/004.md) | [**CNCN Set 0** / 4 Char](/EN/3D/004.md) |
 
 
 
